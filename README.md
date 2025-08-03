@@ -19,4 +19,5 @@ This project is a *Python + Streamlit* dashboard that simulates a smart home roo
 
 ## 🔹 How to Run
 
+
 1. Clone the repository:
